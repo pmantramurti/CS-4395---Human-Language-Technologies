@@ -11,4 +11,4 @@
 
 ## Assignment 2
  Exploring NLTK
- You can see the pdf [here](Exploring NLTK - Colaboratory.pdf).
+ You can see the pdf [here](Exploring_NLTK.pdf).
