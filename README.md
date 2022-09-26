@@ -16,3 +16,7 @@
 ## Assignment 3
  Word Guessing Game  
  You can see the program [here](WordGuessGame.py).
+
+## Assignment 4
+ Wordnet  
+ You can read the pdf [here](Wordnet.pdf).
