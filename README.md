@@ -23,4 +23,4 @@
 
 ## Assignment 5
  Ngrams  
- You can see the first program [here](pOne.py) and the second program [here](pTwo.py). You can read a writeup about Ngrams [here](Ngrams Narrative.pdf).
+ You can see the first program [here](pOne.py) and the second program [here](pTwo.py). You can read a writeup about Ngrams [here](Ngrams_Narrative.pdf).
