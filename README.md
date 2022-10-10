@@ -24,3 +24,7 @@
 ## Assignment 5
  Ngrams  
  You can see the first program [here](pOne.py) and the second program [here](pTwo.py). You can read a writeup about Ngrams [here](Ngrams_Narrative.pdf).
+
+## Assignment 6
+ Building a Corpus  
+ You can see the program [here](main.py) and a summary of the knowledge base [here](WebCrawlerReport.pdf).
