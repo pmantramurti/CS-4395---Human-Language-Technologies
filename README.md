@@ -28,3 +28,7 @@
 ## Assignment 6
  Building a Corpus  
  You can see the program [here](main.py) and a summary of the knowledge base [here](WebCrawlerReport.pdf).
+
+## Assignment 7
+ Sentence Parsing  
+ You can read the parsing exploration [here](Sentence_parsing.pdf).
