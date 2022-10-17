@@ -31,4 +31,4 @@
 
 ## Assignment 7
  Sentence Parsing  
- You can read the parsing exploration [here](Sentence_parsing.pdf).
+ You can read the parsing exploration [here](Sentence_Parsing.pdf).
