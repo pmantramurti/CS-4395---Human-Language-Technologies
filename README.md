@@ -32,3 +32,7 @@
 ## Assignment 7
  Sentence Parsing  
  You can read the parsing exploration [here](Sentence_Parsing.pdf).
+ 
+## Assignment 8
+ Author Attribution
+ You can read the pdf [here](AuthorAttr.pdf).
