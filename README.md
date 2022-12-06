@@ -40,3 +40,7 @@
 ## Assignment 9  
  Pokemon Chatbot  
  You can find the project [here](/ChatbotProject/). You can find the report on it [here](ChatBotReport.pdf).
+ 
+## Assignment 10  
+ Text Classification  
+ You can find the pdf [here](TextClassification.ipynb-Colaboratory.pdf).
